@@ -1,0 +1,8 @@
+environment:
+
+launch anaconda (from start menu), which then launches Jupyter that can interpret each line.
+Shift enter runs line of code.
+
++ adds another cell, used arrow to move it.  b adds cell below a adds cell aboveescape gets you out of edit mode.
+
+
