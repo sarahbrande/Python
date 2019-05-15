@@ -6,3 +6,13 @@ Shift enter runs line of code.
 + adds another cell, used arrow to move it.  b adds cell below a adds cell aboveescape gets you out of edit mode.
 
 control enter to interpret but not advance ot a new line.
+
+github good place to find packages (how do you know which ones work/tested? download
+
+to install package @ anaconda command prompt (lesson 19)
+conda install packagename or
+ pip install package name.
+
+import package or function (from package import function)
+ -- it seemed to work so it must have known to get it from github
+
