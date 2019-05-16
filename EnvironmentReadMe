@@ -16,3 +16,4 @@ conda install packagename or
 import package or function (from package import function)
  -- it seemed to work so it must have known to get it from github
 
+on a import of a package, if you type the first part then . then tab, it gives a list of possibilities.
